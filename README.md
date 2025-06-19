@@ -6,13 +6,13 @@ Welcome to my documentation hub! I'm currently an intern at **Solutions3 LLC**, 
 
 As part of my internship, I am exploring key focus areas within cybersecurity:
 
-### 🔐 Cyber Essentials  
+### Cyber Essentials  
 This rotation introduces the core concepts of cybersecurity, including threat landscapes, common vulnerabilities, network defense tools, and foundational best practices.
 
-### 🚨 Incident Response  
+### Incident Response  
 In this phase, I’m learning how organizations detect, investigate, and respond to security incidents. This includes exposure to threat hunting, response procedures, and containment strategies.
 
-### 📋 Risk Management Framework (RMF)  
+### Risk Management Framework (RMF)  
 During this rotation, I’m diving into NIST’s RMF process—understanding how to assess and manage risk, prepare documentation, and support compliance in secure systems development.
 
 ## 📅 Weekly Updates
