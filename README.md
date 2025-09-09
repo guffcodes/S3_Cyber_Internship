@@ -1,6 +1,6 @@
 # Internship Journey at Solutions3 LLC
 
-Welcome to my documentation hub! I'm currently an intern at **Solutions3 LLC**, where I'm rotating through various cybersecurity pathways to build hands-on skills and industry knowledge. This repository serves as a living journal of my experience, insights, and learning progress throughout the program.
+Welcome to my documentation hub! Here's a look at my internship journey at **Solutions3 LLC**, where I rotated through various cybersecurity pathways to build hands-on skills and industry knowledge. This repository serves as a living journal of my experience, insights, and learning progress throughout the program.
 
 ## 🌐 About the Internship
 
